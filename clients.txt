@@ -1,0 +1,7 @@
+        ID  Password    Region       Order_Item_ID
+     shbae      1111     Suwon             F01,C05
+     jkbae      2222     Suwon                 C06
+     iccho      3333     Seoul             C06,F04
+     ymkim      4444   Daejeon             F03,F02
+     khlee      5555   Daejeon                 C05
+   jwhwang      6666     Seoul             F02,F01

@@ -1,0 +1,8 @@
+        ID            ItemName     Price  Quantity
+       F01            NutsFarm     60000       100
+       F02           SodaWater     20000        20
+       F03         LemonDaegwa     15000        10
+       F04           DryAlmond     40000         2
+       C05            Onepiece     50000         1
+       C06       BeanPoleShirt    100000         4
+       C07           NikeShoes    120000       100
